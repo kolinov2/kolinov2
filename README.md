@@ -11,6 +11,8 @@
  
  🌱 I’m currently learning **JavaScript, Docker, Kubernetes, Node.js**
 
+ 💻 Proud owner of  **ThinPad T480s**
+
 
  </div>
  
