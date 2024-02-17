@@ -23,8 +23,8 @@
   <a href="https://www.ducknet.pl" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=htmx&logoColor=yellow" target="_blank" />
   </a>
-   <a href="https://www.mozilla.org/" target="_blank">
-     <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank" /> 
+   <a href="https://www.reddit.com/user/kolino_v/" target="_blank">
+     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank" /> 
   </a>
 </div>
 <hr/>
