@@ -23,9 +23,12 @@
   <a href="https://www.ducknet.pl" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=htmx&logoColor=yellow" target="_blank" />
   </a>
+    <a href="https://steamcommunity.com/profiles/76561199057845150" target="_blank">
+     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
    <a href="https://www.reddit.com/user/kolino_v/" target="_blank">
      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank" /> 
-  </a>
+        </a>
 </div>
 <hr/>
  
