@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=6000&pause=1000&color=00C02A&center=true&vCenter=true&random=false&width=430&lines=Hello+World!" />
 </h1>
 
-<h3 align="center">Learning dev from poland 🇵🇱</h3>
+<h3 align="center">Learning dev from Poland 🇵🇱</h3>
 
 
 <div align="center">
