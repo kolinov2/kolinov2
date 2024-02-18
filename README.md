@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **![Duck-Linux](https://github.com/kolinov2/Duck-Linux)**
+ 🔭 I’m currently working on **[Duck-Linux](https://github.com/kolinov2/Duck-Linux)**
  
  🌱 I’m currently learning **JavaScript, Docker, Kubernetes, Node.js**
 
